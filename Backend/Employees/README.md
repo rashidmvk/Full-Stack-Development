@@ -39,7 +39,7 @@ To get a local copy up and running follow these simple example steps.
 - Open Terminal
 - Change directory to folder to download repository
 - Use `cd <file-path>`
-- Run `git clone https://github.com/rashidmvk/Employees-Node-Typescript`
+- Clone the repo
 - Use `yarn webpack`
 - Install all the dependencies.
 - Check the package.json file and verify that all the required dependencies have been installed.
@@ -50,6 +50,7 @@ To get a local copy up and running follow these simple example steps.
 
 ### Output 
 
+- Goto 'http://localhost:port/api/employees' to see the updated employee list.
 - Succeessfully returns the endpoint with updated Employee List with country information added to the given list of employees. 
 
 ### Unit Testing
