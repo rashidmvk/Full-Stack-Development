@@ -48,7 +48,7 @@ To get a local copy up and running follow these simple example steps.
 - Install all the dependencies.
 - Check the package.json file and verify that all the required dependencies have been installed.
 
-### Run Appliccation
+### Run Application
 
 - Run the command `yarn dev` .
 
