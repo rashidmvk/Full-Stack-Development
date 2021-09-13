@@ -2,10 +2,6 @@
 
 <div align="center">
 
-[![Status](https://img.shields.io/badge/status-active-success.svg)](https://github.com/rashidmvk/Employees)
-[![Github Issues](https://img.shields.io/badge/GitHub-Issues-orange)](https://github.com/rashidmvk/Employees/issues)
-[![GitHub2 Pull Requests](https://img.shields.io/badge/GitHub-Pull%20Requests-blue)](https://github.com/rashidmvk/Employees)
-[![License](https://img.shields.io/badge/license-MIT-blue.svg)](/LICENSE)
 
 </div>
 <p align="center">This is a rest api manipulation project built on Node js and Express using Typescript</p>
