@@ -9,7 +9,7 @@
 
 ### Assumption Made
 
-- As it has been mentioned at the question to return only the endpont with the updated Employee list along with added country specific information, I have used to obtain the empployee list from the statically declared json object.
+- As it has been mentioned at the problem set to return only the endpont with the updated Employee list along with added country specific information, I have used to obtain the empployee list from the statically declared json object.
 - There is no specific api mentioned to return the updated list , hence assumed to just return the list. 
 
 ## Built With
